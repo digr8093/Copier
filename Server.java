@@ -5,8 +5,7 @@ public class Server implements Runnable
 /*
  Lauren M DiGregorio
  November 24, 2013
- CISC 230
- Jarvis
+
 
  This class is the is the platform in which the client and server interact
 

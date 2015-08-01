@@ -5,8 +5,7 @@ public class FileDoesNotExistException extends FileCopierException
 	/*
 	Lauren M DiGregorio
 	October 16, 2013
-	CISC 230
-	Jarvis
+
 
 	Throws error if file does not exists.
 

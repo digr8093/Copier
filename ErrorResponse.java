@@ -6,8 +6,6 @@ public class ErrorResponse extends ResponseMessage
 	/*
 	Lauren M DiGregorio
 	October 16, 2013
-	CISC 230
-	Jarvis
 
 	Class that holds all of our errors
 

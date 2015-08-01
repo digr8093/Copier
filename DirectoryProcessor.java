@@ -6,8 +6,7 @@ public class DirectoryProcessor
  /*
  Lauren M DiGregorio
  October 16, 2013
- CISC 230
- Jarvis
+
 
  This class specifies how we want to process the file we pass this class
 

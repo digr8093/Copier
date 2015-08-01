@@ -4,7 +4,7 @@ import java.net.*;
 public class DirectoryCopier implements Runnable
 {
  /*
-    Patrick L. Jarvis
+   
     December 4, 2013
 
     This class will make a copy of a directory

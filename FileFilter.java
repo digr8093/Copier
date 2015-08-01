@@ -5,8 +5,7 @@ public interface FileFilter
 	/*
 	Lauren M DiGregorio
 	October 16, 2013
-	CISC 230
-	Jarvis
+
 
 	Interface meant to be used within FileUtility class.
 

@@ -5,8 +5,6 @@ public class SystemGeneratedException extends FileCopierException
 /*
 	Lauren M DiGregorio
 	October 16, 2013
-	CISC 230
-	Jarvis
 
 	Throws generic error if file does not exists.
 

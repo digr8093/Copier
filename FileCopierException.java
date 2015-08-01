@@ -5,8 +5,7 @@ abstract public class FileCopierException extends RuntimeException implements Se
 /*
 	Lauren M DiGregorio
 	October 16, 2013
-	CISC 230
-	Jarvis
+
 
 	Class that holds all of our errors
 

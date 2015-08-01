@@ -8,8 +8,7 @@ public class FileMimeTypes
 
  Lauren M DiGregorio
  November 30, 2013
- CISC 230
- Jarvis
+
 
  Creates a map that holds all the file mimetypes for all files processed
 

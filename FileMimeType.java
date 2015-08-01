@@ -5,8 +5,7 @@ public class FileMimeType implements Serializable
 	/*
 	Lauren M DiGregorio
 	November 30, 2013
-	CISC 230
-	Jarvis
+
 
 	Holds the fileMimeType for a file
 

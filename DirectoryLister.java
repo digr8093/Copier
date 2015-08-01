@@ -5,8 +5,7 @@ public class DirectoryLister
 	/*
 	Lauren DiGregorio
 	October 24, 2013
-	CISC 230
-	Jarvis
+
 
 	This class will list files and directories.  FileList is constructed like
 	a stack

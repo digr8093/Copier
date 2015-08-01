@@ -8,8 +8,7 @@ public abstract class FileUtility
  /*
  Lauren M DiGregorio
  November 16, 2013
- CISC 230
- Jarvis
+
 
  This class compares two files and tells us if they are the same or not.  This class
  contains a nested called FileReader.  FileReader helps read and create a buffer for the

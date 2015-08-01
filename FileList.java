@@ -8,8 +8,7 @@ public class FileList
 /*
 	Lauren M DiGregorio
 	October 12, 2013
-	CISC 230
-	Javis
+
 
 	This class adds and subtracts to the vector of type Files.
 	The vector of files is set up like a stack.
